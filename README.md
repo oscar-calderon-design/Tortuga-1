@@ -70,4 +70,5 @@ reiniciar()
 Al ejecutar `main.py`, verás una demostración automática generando escaleras y figuras.
 
 ## Imagenes
+<img width="368" height="476" alt="image" src="https://github.com/user-attachments/assets/725d541b-643b-42c5-8529-6dea802ff402" />
 
