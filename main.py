@@ -22,5 +22,5 @@ print("posicion_x reiniciada a 0")
 
 # Segunda figura: un tramo más largo y líneas verticales
 print("\nFigura 2:")
-adelante(5)
-abajo(3)
+adelante(3)
+abajo(6)
